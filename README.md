@@ -30,4 +30,14 @@ See [`NeuroAthena_V1/README.md`](NeuroAthena_V1/README.md) for details.
 
 ## Version 2
 
-Version 2 will extend V1 according to the NeuroAthena Notion roadmap while continuing to use the shared data under `Brain/Real/`.
+V2 implements the modular scientific-assistant stage of the Notion roadmap: an MR-AIV MCP server, reusable scientific skills, bounded three-round HITL, structured claims, literature retrieval, evidence criticism, provenance, and stronger scientific guardrails.
+
+```bash
+cd NeuroAthena_V2
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python workflow.py
+```
+
+See [`NeuroAthena_V2/README.md`](NeuroAthena_V2/README.md) for the full workflow and scientific limitations.

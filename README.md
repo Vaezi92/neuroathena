@@ -10,6 +10,7 @@ neuroathena/
 │   └── Real/
 ├── NeuroAthena_V1/         # First working LangGraph workflow
 ├── NeuroAthena_V2/         # Second-version implementation
+├── NeuroAthena_V3/         # Contextual synthesis and HTML reporting
 ├── .gitignore
 └── README.md
 ```
@@ -41,3 +42,17 @@ python workflow.py
 ```
 
 See [`NeuroAthena_V2/README.md`](NeuroAthena_V2/README.md) for the full workflow and scientific limitations.
+
+## Version 3
+
+V3 implements the final roadmap stage: three-perspective initial HITL, evidence-dependent follow-up questions, NotebookLM retrieval, citation-constrained OpenAI synthesis, and a self-contained HTML scientific report.
+
+```bash
+cd NeuroAthena_V3
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python workflow.py
+```
+
+See [`NeuroAthena_V3/README.md`](NeuroAthena_V3/README.md) for authentication and offline-run instructions.

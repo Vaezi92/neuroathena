@@ -1,0 +1,34 @@
+{
+  "notebooks": [
+    {
+      "notebook_id": "d247d0fe-8492-4657-bde1-7b862c322cb3",
+      "title": "MRI agent",
+      "specialty": "mri",
+      "description": "MRI acquisition, reconstruction, contrast, MR-AIV interpretation, imaging artifacts, segmentation, and partial-volume effects."
+    },
+    {
+      "notebook_id": "5ca3b531-b16a-43fa-9e53-56be83a349a3",
+      "title": "Applied math agent",
+      "specialty": "applied_mathematics",
+      "description": "Inverse problems, identifiability, uncertainty, regularization, numerical analysis, PDEs, and mathematical interpretation."
+    },
+    {
+      "notebook_id": "62478a3c-201c-4359-8ff9-e36b7af57b59",
+      "title": "Neuroscience agent",
+      "specialty": "neuroscience",
+      "description": "Mouse-brain biology, anatomy, physiology, transport pathways, and biological plausibility."
+    },
+    {
+      "notebook_id": "8149abb7-8ec4-4d50-afde-93b604eda8c5",
+      "title": "Agentic PINNs review",
+      "specialty": "pinns",
+      "description": "Physics-informed neural networks, training behavior, loss balancing, validation, failure modes, and inferred-field limitations."
+    },
+    {
+      "notebook_id": "576b5f66-7606-4337-80c8-fe9ce3a4b24e",
+      "title": "Fluid dynamics agent",
+      "specialty": "fluid_dynamics",
+      "description": "Fluid mechanics, porous transport, velocity and permeability fields, boundary conditions, scaling, and transport alternatives."
+    }
+  ]
+}

@@ -16,6 +16,9 @@
 **/*.mat
 **/*.png
 
+# Version-controlled source datasets
+!Brain/Real/*.mat
+
 # Keep the expected input directory in Git
 !Brain/Real/.gitkeep
 # OS/editor files

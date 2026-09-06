@@ -1,0 +1,5 @@
+numpy>=2.0,<3
+scipy>=1.14,<2
+openai>=1.109,<3
+mcp>=1.12,<2
+notebooklm-py[browser,mcp]==0.8.0

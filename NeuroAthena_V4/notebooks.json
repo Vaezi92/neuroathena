@@ -1,0 +1,8 @@
+{
+  "notebooks": [
+    {"notebook_id": "d247d0fe-8492-4657-bde1-7b862c322cb3", "specialty": "mri", "title": "MRI agent"},
+    {"notebook_id": "576b5f66-7606-4337-80c8-fe9ce3a4b24e", "specialty": "fluid_dynamics", "title": "Fluid dynamics agent"},
+    {"notebook_id": "5ca3b531-b16a-43fa-9e53-56be83a349a3", "specialty": "applied_mathematics", "title": "Applied math agent"},
+    {"notebook_id": "62478a3c-201c-4359-8ff9-e36b7af57b59", "specialty": "neuroscience", "title": "Neuroscience agent"}
+  ]
+}
